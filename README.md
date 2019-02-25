@@ -1,2 +1,2 @@
 # piprepo
-Repository for various software, including python CLI apps
+Repository for various software, including python CLI apps(WIP)
