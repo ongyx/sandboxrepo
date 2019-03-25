@@ -14,7 +14,7 @@ Run these commands in your shell.
 ```
 curl -O https://github.com/sn3ksoftware/sandboxrepo/raw/master/openterm/install.cub
 
-cub sandmaninstall.cub
+cub install.cub
 ```
 
 # Libterm
