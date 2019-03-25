@@ -8,7 +8,7 @@ This repo is still work in progress, so *use at your own risk.*
 
 # - Installation -
 
-# OpenTerm
+## OpenTerm
 Run these commands in your shell.
 
 ```
@@ -17,7 +17,7 @@ curl -O https://github.com/sn3ksoftware/sandboxrepo/raw/master/openterm/install.
 cub install.cub
 ```
 
-# Libterm
+## Libterm
 Run this command:
 
 ```
