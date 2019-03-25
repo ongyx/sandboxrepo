@@ -32,9 +32,9 @@ Thus, I created sandman to make it easier to test and pull software.
 
 Users can submit a pull request with the command in this form:
 
-For OpenTerm, gzip the whole .prideland command file and submit a pull request, with a appropiate description in the \nmetadata.plist file.
+For OpenTerm, gzip the whole .prideland command folder and submit a pull request, with a appropiate description in the metadata.plist file.
 
-For Libterm, just zip the .py command by *itself* and submit a pull request.(Make sure its not nested in another folder!)
+For Libterm, just zip the .py command by *itself* and submit a pull request. (Make sure its not nested in another folder!)
 
 # New repositories!!!
 The whole point of sandman was to enable external repository support for pulling software.
