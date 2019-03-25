@@ -11,14 +11,18 @@ This repo is still work in progress, so *use at your own risk.*
 # OpenTerm
 Run these commands in your shell.
 
+```
 curl -O https://github.com/sn3ksoftware/sandboxrepo/raw/master/openterm/install.cub
 
 cub sandmaninstall.cub
+```
 
 # Libterm
 Run this command:
 
+```
 curl -O https://github.com/sn3ksoftware/sandboxrepo/raw/master/libterm/install.sh && sh install.sh
+```
 
 # User-submitted software
 I know that Libterm already has something like this, but before you accuse me of reinventing the wheel let me explain.
