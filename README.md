@@ -6,7 +6,7 @@ This repo is still work in progress, so *use at your own risk.*
 
 (The sandman CLI code itself is under the GPLv3 license for all purposes.)
 
-# - Installation -
+# - Installation (WIP, not ready yet) -
 
 ## OpenTerm
 Run these commands in your shell.
