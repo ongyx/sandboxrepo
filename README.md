@@ -21,7 +21,7 @@ Run this command:
 curl -O https://github.com/sn3ksoftware/sandboxrepo/raw/master/libterm/install.sh && sh install.sh
 
 # User-submitted software
-I know that Libterm already has something like this, but before you accuse me of \nreinventing the wheel let me explain.
+I know that Libterm already has something like this, but before you accuse me of reinventing the wheel let me explain.
 OpenTerm did not have a package manager, so I created one.
 But for Libterm, there was no external repo support for its inbuilt file manager.
 Thus, I created sandman to make it easier to test and pull software.
