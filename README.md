@@ -6,7 +6,7 @@ This repo is still work in progress, so *use at your own risk.*
 
 (The sandman CLI code itself is under the GPLv3 license for all purposes.)
 
-# Installation
+# - Installation -
 
 # OpenTerm
 Run these commands in your shell.
@@ -24,7 +24,7 @@ Run this command:
 curl -O https://github.com/sn3ksoftware/sandboxrepo/raw/master/libterm/install.sh && sh install.sh
 ```
 
-# User-submitted software
+# - User-submitted software -
 I know that Libterm already has something like this, but before you accuse me of reinventing the wheel let me explain.
 OpenTerm did not have a package manager, so I created one.
 But for Libterm, there was no external repo support for its inbuilt file manager.
@@ -36,11 +36,11 @@ For OpenTerm, gzip the whole .prideland command folder and submit a pull request
 
 For Libterm, just zip the .py command by *itself* and submit a pull request. (Make sure its not nested in another folder!)
 
-# New repositories!!!
+# •New repositories!!!•
 The whole point of sandman was to enable external repository support for pulling software.
 Now you can, too! Create a RELEASE file in your repo under a "openterm" or a "libterm" folder, whichever platform you want to support. The RELEASE file is crucial as it contains a list of all programs in the repo.
 
-# FAQ
+# - FAQ -
 Q: I thot that Libterm has a package manager already?
 
 A: Read the point under user-submitted software.
