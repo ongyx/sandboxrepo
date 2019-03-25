@@ -38,10 +38,13 @@ Now you can, too! Create a RELEASE file in your repo under a "openterm" or a "li
 
 # FAQ
 Q: I thot that Libterm has a package manager already?
+
 A: Read the point under user-submitted software.
 
 Q: Will I get credited for any software I upload to this repo?
+
 A: Defintely! You also should put credits in your code as a good habit.
 
 Q: Who is sandman for?
+
 A: CLI masters and programmers who have at least basic command-line skills.
