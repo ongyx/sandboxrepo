@@ -9,7 +9,7 @@ This repo is still work in progress, so *use at your own risk.*
 ## Why sandman?
 I wanted to try to integrate pip into Libterm by running the default install script,
 but it does not work by itself. So, I started this repo to host packages that I modified to work in Libterm.
-The main inspiration of sandman is problably [StaSh](https://github.com/ywangd/stash).
+The main inspiration of sandman was [StaSh](https://github.com/ywangd/stash).
 
 # - Installation (WIP, not ready yet) -
 
