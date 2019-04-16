@@ -1,15 +1,15 @@
 # Sandbox Repository
-Repository for various Python Index Packages and sandman (Sandboxed Package Manager).
+Repository for various Python Index Packages and spm (Sandboxed Package Manager).
 This is a special repo in that it supports *nix-In-A-Box apps, like LibTerm and OpenTerm.
 The tool used to download packages from this repo will be similar to apt, using a Release file.
 This repo is still work in progress, so *use at your own risk.*
 
-(The sandman CLI code itself is under the GPLv3 license for all purposes.)
+(The spm CLI code itself is under the GPLv3 license for all purposes.)
 
 ## Why sandman?
 I wanted to try to integrate pip into Libterm by running the default install script,
 but it does not work by itself. So, I started this repo to host packages that I modified to work in Libterm.
-The main inspiration of sandman was [StaSh](https://github.com/ywangd/stash).
+The main inspiration of spm was [StaSh](https://github.com/ywangd/stash).
 
 # - Installation (WIP, not ready yet) -
 
@@ -32,7 +32,7 @@ curl -O https://github.com/sn3ksoftware/sandboxrepo/raw/master/libterm/install.s
 # - User-submitted software -
 I know that Libterm already has something like this, but before you accuse me of reinventing the wheel let me explain.
 OpenTerm did not have a package manager, so I created one.
-But for Libterm, there was no external repo support for its inbuilt file manager.
+But for Libterm, there was no external repo support for its inbuilt package manager.
 Thus, I created sandman to make it easier to test and pull software.
 
 Users can submit a pull request with the command in this form:
@@ -49,10 +49,6 @@ Now you can, too! Create a RELEASE file in your repo under a "openterm" or a "li
 Q: I thot that Libterm has a package manager already?
 
 A: Read the point under user-submitted software.
-
-Q: Will I get credited for any software I upload to this repo?
-
-A: Defintely! You also should put credits in your code as a good habit.
 
 Q: Who is sandman for?
 
