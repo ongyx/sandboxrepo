@@ -1,1 +1,0 @@
-#TEST FILE FOR LIBTERM spm
