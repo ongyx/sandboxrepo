@@ -13,5 +13,5 @@ For OpenTerm, gzip the whole .prideland command folder and submit a pull request
 For Libterm, just zip the .py command by *itself* and submit a pull request. (Make sure its not nested in another folder!)
 
 # •New repositories!!!•
-The whole point of sandman was to enable external repository support for pulling software.
+The whole point of [spkg](https://github.com/sn3ksoftware/sandpkg) was to enable external repository support for pulling software.
 Now you can, too! Create a RELEASE file in your repo under a "openterm" or a "libterm" folder, whichever platform you want to support. The RELEASE file is crucial as it contains a list of all programs in the repo.
