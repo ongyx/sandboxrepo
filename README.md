@@ -17,7 +17,7 @@ The main inspiration of spm was [StaSh](https://github.com/ywangd/stash).
 Run these commands in your shell.
 
 ```
-curl -O https://github.com/sn3ksoftware/sandboxrepo/raw/master/openterm/install.cub
+curl -O https://github.com/sn3ksoftware/sandboxrepo/raw/master/install/install.cub
 
 cub install.cub
 ```
@@ -26,7 +26,7 @@ cub install.cub
 Run this command:
 
 ```
-curl -O https://github.com/sn3ksoftware/sandboxrepo/raw/master/libterm/install.sh && sh install.sh
+curl -O https://github.com/sn3ksoftware/sandboxrepo/raw/master/install/install.sh && sh install.sh
 ```
 
 # - User-submitted software -
