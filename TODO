@@ -1,9 +1,9 @@
 More important issues - Lower numbers
 
-1: Complete full working version of sandman for OpenTerm (partially complete) and Libterm (have not started yet)
+1: Complete full working version of spkg for Libterm (have not started yet)
 
-2: Flesh out code for retreiving from github repos.
+2: Flesh out code for retreiving from github repos.(Done)
 
-3: Submit new code and programs so that sandman can be used.
+3: Submit new code and programs so that spkg can be used.(Done)
 
 4: Keep seperate branches for stable and testing.(DONE)
