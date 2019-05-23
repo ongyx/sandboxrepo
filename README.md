@@ -12,7 +12,7 @@ Users can submit a pull request with the command in this form:
 
 For OpenTerm, tarball(tar -czvf) the whole .prideland command folder and submit a pull request, with a appropiate description in the metadata.plist file.
 
-For Libterm, tarball(tar -czvf) the .py command by *itself* and submit a pull request. (Make sure its not nested in another folder!)
+For Libterm (spkg is still wip), tarball(tar -czvf) the .py command by *itself* and submit a pull request. (Make sure its not nested in another folder!)
 
 # •New repositories!!!•
 The whole point of [spkg](https://github.com/sn3ksoftware/sandpkg) was to enable external repository support for pulling software.
