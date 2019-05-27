@@ -1,13 +1,12 @@
-#CREDITS
+CREDITS
 This is a credits file for packages stored in this repo.
 The credits are arranged like so:
 ——————————
-Code Author’s Name
+Code Author’s Online Alias/Real Name
 Names Of Packages
 License
 ——————————
 The credits start from here.
-
 ——————————
 sn3ksoftware/Ong Yong Xin
 spkg, tarball, untarball, lsh, makepkg, installpkg
@@ -18,3 +17,6 @@ christmas_countdown, cleanup_files, dice, html_regex,
 read_clipboard, tweet
 GPLv2 and above/MPLv2
 ——————————
+GoDzM4TT3O/Unknown
+cbrt, ct, sqrt, x
+Public Domain (Exact license unknown)
