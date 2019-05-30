@@ -10,7 +10,6 @@ installpkg
 lsh
 makepkg
 read_clipboard
-spkg
 sqrt
 tarball
 tweet
