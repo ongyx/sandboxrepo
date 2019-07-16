@@ -19,6 +19,6 @@ The whole point of [spkg](https://github.com/sn3ksoftware/sandpkg) was to enable
 Now you can, too! Create a RELEASE file in your repo in the Master branch under a "openterm" or a "libterm" folder, whichever platform you want to support. The RELEASE file is crucial as it contains a list of all programs in the repo.
 (Particularly important because users will not know what programs they can install.)
 
-# Credits
+# Credits/Licenses
 The credits for each script are stored in a plaintext contained in the same folder where that author’s package is.
 Be careful to check the credits file first as this repository has more than one license for all its packages if you want to clone or fork the repo.
