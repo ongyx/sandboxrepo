@@ -6,7 +6,7 @@ This repo is still work in progress, so *use at your own risk.*
 
 # - User-submitted software -
 
-(You are strongly recommended to submit your software under a OSI-approved license, like the GPLv3.)
+(You are strongly recommended to submit your software under a OSI-approved license, like the GPLv3 or MIT License.)
 
 Users can submit a pull request with the command in this form:
 
