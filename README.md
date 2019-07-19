@@ -11,8 +11,11 @@ This repo is still work in progress, so *use at your own risk.*
 Users can submit a pull request with the command in this form:
 
 For OpenTerm, tarball(tar -czvf) the whole .prideland command folder and submit a pull request, with a appropiate description in the metadata.plist file.
+Because spkg in OpenTerm relies on a RELEASE file, your package name will also be added there.
 
 For Libterm (spkg is still wip), tarball(tar -czvf) the .py command by *itself* and submit a pull request. (Make sure its not nested in another folder!)
+spkg in Libterm is more advanced, and will automatically get the package name from the [Github REST API](https://api.github.com/repos/sn3ksoftware/sandboxrepo/contents/libterm)
+so a RELEASE file is not needed. Just upload the package and everybody can download it right away.
 
 # •New repositories!!!•
 The whole point of [spkg](https://github.com/sn3ksoftware/sandpkg) was to enable external repository support for pulling software.
