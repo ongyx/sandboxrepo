@@ -13,7 +13,8 @@ Users can submit a pull request with the command in this form:
 For OpenTerm, tarball(tar -czvf) the whole .prideland command folder and submit a pull request, with a appropiate description in the metadata.plist file.
 Because spkg in OpenTerm relies on a RELEASE file, your package name will also be added there.
 
-For Libterm (spkg is still wip), tarball(tar -czvf) the .py command by *itself* and submit a pull request. (Make sure its not nested in another folder!)
+For Libterm (spkg is still wip), zip the .py command (stored in ~/Library/scripts) by *itself* and submit a pull request. (Make sure its not nested in another folder!)
+If you had not installed zip yet, install with “package install zip”.
 spkg in Libterm is more advanced, and will automatically get the package name from the [Github REST API](https://api.github.com/repos/sn3ksoftware/sandboxrepo/contents/libterm)
 so a RELEASE file is not needed. Just upload the package and everybody can download it right away.
 
