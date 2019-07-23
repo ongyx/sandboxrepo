@@ -14,8 +14,8 @@ For OpenTerm, tarball(tar -czvf) the whole .prideland command folder and submit 
 Because spkg in OpenTerm relies on a RELEASE file, your package name should also be added there.
 
 For Libterm (spkg is working somewhat), zip the .py command (stored in ~/Library/scripts) by *itself* and submit a pull request. (Make sure its not nested in another folder!)
-~~If you had not installed zip yet, install with “package install zip”.~~ The zip command from @ColdGrub1384’s repo is not working.
-I will upload a (fairly) basic zip program here for Libterm soon, so run spkg -i zip2 to install.
+~~If you had not installed zip yet, install with “package install zip”.~~ (The zip command from @ColdGrub1384’s repo is not working.
+I will upload a (fairly) basic zip program here for Libterm soon, so run [spkg -i zip2] to install.)
 spkg in Libterm is more advanced, and will automatically get the package list from the [Github REST API](https://api.github.com/repos/sn3ksoftware/sandboxrepo/contents/libterm)
 so a RELEASE file is not needed. Just upload the package and everybody can download it right away.
 
@@ -27,3 +27,9 @@ Now you can, too! Create a RELEASE file in your repo in the Master branch under 
 # Credits/Licenses
 The credits for each script are stored in a plaintext contained in the same folder where that author’s package is.
 Be careful to check the credits file first as this repository has more than one license for all its packages if you want to clone or fork the repo.
+
+# BTW
+Some people have requested ipas for Libterm and OpenTerm, so they will be uploaded here for you to test spkg and stuff.
+(Or if you just want to mess around with it, that’s fine.)
+As usual, use [Cydia Impactor](http://www.cydiaimpactor.com/) to install on your iOS device.
+Unfortunately, it only works on iOS 12.3.1 and up. (Sorry jailbroken users.)
