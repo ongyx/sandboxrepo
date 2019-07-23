@@ -33,3 +33,4 @@ Some people have requested ipas for Libterm and OpenTerm, so they will be upload
 (Or if you just want to mess around with it, that’s fine.)
 As usual, use [Cydia Impactor](http://www.cydiaimpactor.com/) to install on your iOS device.
 Unfortunately, it only works on iOS 12.3.1 and up. (Sorry jailbroken users.)
+Download [here](https://drive.google.com/file/d/1TsNkRACupjJCv6bsXP6pVNueKefmAev-/view?usp=drivesdk) for OpenTerm or [here](https://drive.google.com/file/d/1G-VFHl5_kH-0xpEax5ce0x60FGEXkJ3i/view?usp=drivesdk) for Libterm.
