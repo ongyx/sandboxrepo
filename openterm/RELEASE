@@ -5,6 +5,7 @@ cleanup_files
 ct
 cubbi
 dice
+fibonacci
 helloworld
 html_regex
 installpkg
